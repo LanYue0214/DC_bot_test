@@ -1,0 +1,55 @@
+{
+    "Welcome_channel": "877787165822689341",
+    "bad_words": [
+        "\u5e79",
+        "\u9760",
+        "\u4e09\u5c0f",
+        "\u8d1b",
+        "FUCK",
+        "\u516b\u560e",
+        "Bitch",
+        "fuck",
+        "bitch",
+        "\u6de6",
+        "FUck",
+        "FUcK",
+        "FucK",
+        "\u7068",
+        "fUCK",
+        "fUCk",
+        "雞掰"
+    ],
+    "not_bad_words":[
+        "幹員"
+    ],
+    "ban": [
+        "NTR",
+        "NMSL",
+        "NBSL",
+        "\u96de\u5df4",
+        "Nmsl",
+        "Nbsl",
+        "你媽死了", 
+        "你爸死了"
+    ],
+    "hello_words" : [
+        "你好",
+        "Hello",
+        "hello",
+        "嗨",
+        "哈囉",
+        "嗨嗨",
+        "妳好",
+        "Hi",
+        "hi"
+    ],
+    "no_liar": [
+        "\u6211\u597d\u5e25",
+        "\u6211\u662f\u5929\u624d"
+    ],
+    "pic": "D:\\download\\python\\discordbot\\pic\\\u55f7\u55f7\u4e4b\u661f.jpg",
+    "time": 1948,
+    "url_pic": [
+        "https://i.imgur.com/1N39QIi.jpg"
+    ]
+}
